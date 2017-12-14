@@ -1,0 +1,2 @@
+# pyways
+python practicals
